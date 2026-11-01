@@ -1,6 +1,6 @@
 # FluxTerm downloads
 
-Installers for FluxTerm, the terminal with an AI agent built in.
+Installers for FluxTerm, the terminal IDE with an AI agent built in.
 
 **[Download the latest version](https://github.com/HK-9/fluxterm-releases/releases/latest)** (Windows .exe installer).
 
